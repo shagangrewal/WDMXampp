@@ -1,0 +1,105 @@
+nav a{
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 1.1em;
+	width:120px;
+	text-decoration: none;
+	display: block;
+}
+
+nav a:link{	
+	color: #2a2ac0;
+}
+
+nav a:visited{
+	color: #037aba;
+}
+
+h1 {
+	margin-top: 0px;
+	text-align: center;
+	line-height: 200%;
+	background-image: url("images/lilfish.gif");	;
+	background-size: 100% 100%;
+	background-repeat: no repeat;
+	font-family: Times New Roman;
+	color: #ffffff;
+	text-shadow: 1px 2px #dedede;
+	position: relative;
+}
+
+body {
+	font-family: Arial;
+	background: #6699ff;	
+}
+
+div.body{
+	backgound: #ffffff;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+span
+{
+	color: #003f6e;	
+	font-weight: bold;
+	text-shadow: 1px 2px #aaa;
+}
+
+footer {
+	font-style: italic;
+	font-size: .70em;
+	color: #460da5;
+}
+
+label,p,li,dd{
+	color: #460da5;		
+}
+
+#wrapper {
+	width: 80%;
+	margin-left: 10%;
+}
+
+div.column1 {
+	margin-top: 20px;
+	width: 35%;
+	position: fixed;
+	margin-left: 2%;
+}
+
+div.column2 {
+	margin-left: 150px;
+	padding: 0 0 0 3%;
+	width: auto;
+}
+
+input{
+	margin-bottom: 5px;	
+}
+
+h2{
+	color: #2a2ac0;
+	text-shadow: 1px 2px #aaa;
+}
+
+label{
+	text-align: right;
+	width: 120px;
+	padding-right: 20 px;
+	display: inline-block;	
+	margin-bottom: 5px;
+}
+
+
+input, select,textarea{
+	margin-left: 10px;
+	float: center;
+	margin-bottom: 5px;	
+}
+
+div.body{
+	background: #ffffff;
+	margin:0 auto;
+	overflow: hidden;
+}
